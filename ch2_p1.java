@@ -6,7 +6,7 @@ public class ch2_p1 {
 
     public static void main(String[] args) {
         int[] arr = {5, 3, 4, 1, 2};
-        insertion(arr);
+        selection(arr);
         System.out.println(Arrays.toString(arr));
     }
 
@@ -23,7 +23,7 @@ public class ch2_p1 {
         }
     }
 
-    static void selection(int[] arr)         //selection sorting 
+    static void selection(int[] arr)        //selection sorting 
     {
         for (int i = 0; i < arr.length; i++) {
             // find the max item in the remaining array and swap with correct index
