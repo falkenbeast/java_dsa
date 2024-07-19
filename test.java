@@ -1,10 +1,13 @@
-/**
- * test
- */
+
+
 public class test {
 
-        public static void main (String [] args ) {
-          System.out.println('a'+'b');
-          System.out.println("a"+'b');
-        }
+    public static void main(String[] args) {
+	    int n = 68;
+        System.out.println(isOdd(n));
+    }
+
+    private static boolean isOdd(int n) {
+        return (n & 1) == 1;
+    }
 }
