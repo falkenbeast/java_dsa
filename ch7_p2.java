@@ -1,4 +1,4 @@
-public class ch_p2 {
+public class ch7_p2 {
     public static void main(String[] args) {
         int[] arr = {2, 3, 3, 4, 2, 6, 4};
         System.out.println(ans(arr));
