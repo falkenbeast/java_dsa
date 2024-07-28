@@ -1,4 +1,4 @@
-    //this program shows how to find the unique number in the array using xor
+    //this program shows how to find the unique number in the array using xor..
 public class ch7_p2 {
     public static void main(String[] args) {
         int[] arr = {2, 3, 3, 4, 2, 6, 4};
