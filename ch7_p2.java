@@ -8,9 +8,14 @@ public class ch7_p2 {
     private static int ans(int[] arr) {
         int unique = 0;
 
-        for(int n : arr) {
+        for(int n : arr) {                    // this syntax is used to go through each element of for loop ":"
             unique ^= n;
         }
+        
+     /*    for(int n=0;n<arr.length;n++){
+            unique ^= arr[n];                                
+        } */
+
 
         return unique;
     }
