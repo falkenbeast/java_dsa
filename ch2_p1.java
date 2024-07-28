@@ -1,6 +1,6 @@
 
 
-import java.util.Arrays;         //bubble, selection, insertion sorting 
+import java.util.Arrays;         //bubble, selection, insertion sorting .
 
 public class ch2_p1 {
 
