@@ -1,4 +1,4 @@
-// find the the nth magic number 
+// find the the nth magic number ..
 
 
 public class ch7_p4 {
