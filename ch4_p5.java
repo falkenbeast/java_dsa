@@ -1,4 +1,4 @@
-// this program shows arraylist 
+// this program shows arraylist ...
 
 
 
