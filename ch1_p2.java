@@ -1,4 +1,4 @@
-import java.util.Arrays;          //linear searching in string 
+import java.util.Arrays;          //linear searching in string.
 
 public class ch1_p2 {
     public static void main(String[] args) {
