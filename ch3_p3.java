@@ -1,4 +1,4 @@
-//this program checks the immutability of strings 
+//this program checks the immutability of strings... 
 
 public class ch3_p3 {
     public class Comparison {
