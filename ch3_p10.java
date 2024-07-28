@@ -1,4 +1,4 @@
-//this programs tell about strzing methods 
+//this programs tell about strzing methods ....
 
 
 import java.util.Arrays;
