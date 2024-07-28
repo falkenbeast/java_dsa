@@ -1,5 +1,5 @@
                             
-import java.util.Arrays;         //binary search in 2d array 
+import java.util.Arrays;         //binary search in 2d array. 
 
 public class ch1_p7 {
     public static void main(String[] args) {
