@@ -1,4 +1,4 @@
-
+// insertion, selection 2
 import java.util.Arrays;
 public class ch2_p2 {
 
