@@ -1,6 +1,6 @@
 
 
-public class ch1_p5      //binary search
+public class ch1_p5      //binary search.
  {
 
     public static void main(String[] args) {
