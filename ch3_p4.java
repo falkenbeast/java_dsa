@@ -1,4 +1,4 @@
-//this programs shows the use of .printstreamclass
+//this programs shows the use of .printstreamclass...
 
 import java.util.Arrays;
 
