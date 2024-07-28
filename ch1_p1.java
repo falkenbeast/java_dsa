@@ -1,4 +1,4 @@
-public class ch1_p1              //linear searching 
+public class ch1_p1              //linear searching.
  {
 
     public static void main(String[] args) {
