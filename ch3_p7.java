@@ -1,4 +1,4 @@
-//this program shows the performance of the string loop which give 0(n2) time complexity 
+//this program shows the performance of the string loop which give 0(n2) time complexity ....
 
 public class ch3_p7 {
     public static void main(String[] args) {
