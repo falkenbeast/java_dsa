@@ -1,4 +1,4 @@
-// this program shows the internal working of arraylist 
+// this program shows the internal working of arraylist ...
 
 
 
