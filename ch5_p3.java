@@ -1,4 +1,4 @@
-//this program shows the solving of program "ch5_p3.java" using recursion technique
+//this program shows the solving of program "ch5_p3.java" using recursion technique...
 
 
 public class ch5_p3 {
