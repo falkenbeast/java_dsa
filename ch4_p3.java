@@ -1,4 +1,4 @@
-//this program is for passing values in array 
+//this program is for passing values in array.. 
 
 import java.util.Arrays;
 
