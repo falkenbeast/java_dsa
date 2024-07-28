@@ -1,5 +1,5 @@
 
-public class ch1_p3         // search in range 
+public class ch1_p3         // search in range .
  {
     public static void main(String[] args) {
         int[] arr = {18, 12, -7, 3, 14, 28};
