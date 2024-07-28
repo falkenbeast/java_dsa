@@ -1,4 +1,4 @@
-//this program shows prettyprinting using placeholders of format specifiers 
+//this program shows prettyprinting using placeholders of format specifiers ....
 
 
 public class ch3_p5 {
