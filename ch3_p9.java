@@ -1,4 +1,4 @@
-//this program shows stringbuilder which is mutable 
+//this program shows stringbuilder which is mutable .....
 
 public class ch3_p9 {
     public static void main(String[] args) {
