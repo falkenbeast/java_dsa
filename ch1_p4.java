@@ -1,5 +1,5 @@
 
-import java.util.Arrays;     // searching in double dimension
+import java.util.Arrays;     // searching in double dimension.
 
 public class ch1_p4 {
     public static void main(String[] args) {
