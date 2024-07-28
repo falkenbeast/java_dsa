@@ -1,3 +1,5 @@
+//...advance array 2
+
 import java.util.Arrays;
 import java.util.Scanner;
 
