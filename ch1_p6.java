@@ -1,6 +1,6 @@
 
 
-public class ch1_p6          //checking ascending or descending order for binary search 
+public class ch1_p6          //checking ascending or descending order for binary search .
  {
     public static void main(String[] args) {
 //        int[] arr = {-18, -12, -4, 0, 2, 3, 4, 15, 16, 18, 22, 45, 89};
