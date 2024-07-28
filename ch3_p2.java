@@ -1,4 +1,4 @@
-//this program shows that string object cannot be changed ones asssigned  (immutablity)
+//this program shows that string object cannot be changed ones asssigned  (immutablity)..
 public class ch3_p2 {
     public static void main(String[] args) {
         int[] arr = {2, 3, 5, 4, 19};
