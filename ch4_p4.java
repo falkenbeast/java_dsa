@@ -1,4 +1,4 @@
-//this program shows multidimension arrays 
+//this program shows multidimension arrays ...
 
 import java.util.Arrays;
 import java.util.Scanner;
