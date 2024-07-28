@@ -1,4 +1,4 @@
-// no. of binary digits in a number 
+// no. of binary digits in a number ..
 
 
 public class ch7_p5 {
